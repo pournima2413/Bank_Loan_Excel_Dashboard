@@ -68,10 +68,10 @@ Provides a detailed table view of all loan records for filtering and deep analys
 ## 📷 Dashboard Preview
 
 ### Summary Dashboard
-![Summary Dashboard](docs/images/summary.png)
+![Summary Dashboard](docs/summary.png)
 
 ### Overview Dashboard
-![Overview Dashboard](docs/images/overview.png)
+![Overview Dashboard](docs/overview.png)
 
 ---
 
